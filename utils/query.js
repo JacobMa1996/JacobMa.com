@@ -1,5 +1,5 @@
 const mysql = require('mysql')
-const MYSQL_CONFIG = require('../config/mysql_config') // 数据库配置
+const MYSQL_CONFIG = require('../config/mysql') // 数据库配置
 
 
 // mysql
